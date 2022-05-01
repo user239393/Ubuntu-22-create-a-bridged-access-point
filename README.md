@@ -79,5 +79,3 @@ sudo apt-get install gnome-shell-extensions gnome-shell-extension-desktop-icons-
 
 **Helpful**
 https://wiki.gentoo.org/wiki/Hostapd
-
-Ubuntu-22-create-a-bridged-access-point
