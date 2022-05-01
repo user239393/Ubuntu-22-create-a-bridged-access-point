@@ -1,4 +1,4 @@
-# Ubuntu-22-create-a-bridged-access-point
+# Ubuntu-22-create-a-bridged-wifi-access-point
 Ubuntu create a bridged access point with hostapn (01.05.2022)
 
 **1. Install Ubuntu 22**
