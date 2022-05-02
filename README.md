@@ -1,5 +1,4 @@
-# Setup Ubuntu 22.04 as bridged wireless access point and get the IP's from the main DHCP router / device
-Ubuntu create a bridged access point with hostapn (01.05.2022)
+# Setup Ubuntu 22.04 as bridged wireless access point and get the IP's from the main DHCP router / device (01.05.2022)
 
 **1. Install Ubuntu 22**
 
